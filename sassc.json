@@ -1,0 +1,5 @@
+{ 
+  "homepage": "https://github.com/sass/sassc",
+  "checkver": "github",
+  "bin": "sassc.exe"
+}
