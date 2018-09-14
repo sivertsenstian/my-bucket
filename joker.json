@@ -1,9 +1,6 @@
-{ version: "0.9.7", 
-  homepage: "https://github.com/candid82/joker",
+{ "version": "0.9.7", 
+  "homepage": "https://github.com/candid82/joker",
   "checkver": "github",
-  url: "https://github.com/candid82/joker/releases/download/v0.9.7/joker-0.9.7-win-amd64.zip", 
-  bin: "joker.exe",
-  "hash": {
-    "url": "$url.sha256"
-  }
+  "url": "https://github.com/candid82/joker/releases/download/v0.9.7/joker-0.9.7-win-amd64.zip", 
+  "bin": "joker.exe"
 }
