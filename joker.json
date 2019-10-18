@@ -1,5 +1,5 @@
 { "version": "0.12.9", 
   "homepage": "https://github.com/candid82/joker",
-  "url": "https://github.com/candid82/joker/releases/download/v0.12.0/joker-0.12.9-win-amd64.zip", 
+  "url": "https://github.com/candid82/joker/releases/download/v0.12.9/joker-0.12.9-win-amd64.zip", 
   "bin": "joker.exe"
 }
